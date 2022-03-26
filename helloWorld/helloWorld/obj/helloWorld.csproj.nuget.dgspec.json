@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\helloWorld\\helloWorld\\helloWorld.csproj": {}
+    "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\c_sharp\\helloWorld\\helloWorld\\helloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\helloWorld\\helloWorld\\helloWorld.csproj": {
+    "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\c_sharp\\helloWorld\\helloWorld\\helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\helloWorld\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\c_sharp\\helloWorld\\helloWorld\\helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\helloWorld\\helloWorld\\helloWorld.csproj",
+        "projectPath": "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\c_sharp\\helloWorld\\helloWorld\\helloWorld.csproj",
         "packagesPath": "C:\\Users\\omerf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\helloWorld\\helloWorld\\obj\\",
+        "outputPath": "C:\\Users\\omerf\\Desktop\\Dersler\\Console\\c_sharp\\helloWorld\\helloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerf\\AppData\\Roaming\\NuGet\\NuGet.Config",
